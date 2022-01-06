@@ -29,7 +29,6 @@ Users should be able to:
 ![drawer](https://github.com/Dev-Tron/article-preview/raw/main/images/Screenshot%202022-01-05%20at%2006-57-34%20Frontend%20Mentor%20Article%20preview%20component.png)
 
 
-
 ### Links
 
 - Solution URL: (https://github.com/Dev-Tron/article-preview)
@@ -56,7 +55,7 @@ In this challenge, I further learned the importance of layouts and their relatio
 
 Areas I need to improve on include:
 
-- Deeper understanding of layouts using, flex, grid, inline, and block elements.
+- Deeper understanding of layouts and using, flex, grid, inline, and block elements.
 
 ## Author
 
