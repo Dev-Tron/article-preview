@@ -29,8 +29,6 @@ Users should be able to:
 ### Screenshot
 
 ![drawer](https://github.com/Dev-Tron/article-preview/raw/main/images/Screenshot%202022-01-05%20at%2006-57-34%20Frontend%20Mentor%20Article%20preview%20component.png)
-![teacher](../images/Screenshot 2022-01-05 at 06-57-34 Frontend Mentor Article preview component.png)
-
 ### Links
 
 - Solution URL: (https://github.com/Dev-Tron/article-preview)
