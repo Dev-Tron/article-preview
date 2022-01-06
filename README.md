@@ -15,8 +15,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -29,6 +27,9 @@ Users should be able to:
 ### Screenshot
 
 ![drawer](https://github.com/Dev-Tron/article-preview/raw/main/images/Screenshot%202022-01-05%20at%2006-57-34%20Frontend%20Mentor%20Article%20preview%20component.png)
+
+![drawer](file:///Users/keytronbrown/Documents/Screen%20Shot%202022-01-06%20at%204.35.06%20AM.png)
+
 ### Links
 
 - Solution URL: (https://github.com/Dev-Tron/article-preview)
