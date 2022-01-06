@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Dev-Tron/article-preview.git)
+- Solution URL: (https://github.com/Dev-Tron/article-preview)
 - Live Site URL: (https://dev-tron.github.io/article-preview/)
 
 ## My process
