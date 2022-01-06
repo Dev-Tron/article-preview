@@ -28,9 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-<<<<<<< HEAD
-![drawer](images/Screen Shot 2022-01-05 at 6.53.24 AM.png)
-![teacher](images/Screenshot 2022-01-05 at 06-57-34 Frontend Mentor Article preview component.png)
+![drawer](../images/Screen Shot 2022-01-05 at 6.53.24 AM.png)
+![teacher](../images/Screenshot 2022-01-05 at 06-57-34 Frontend Mentor Article preview component.png)
 
 ### Links
 
