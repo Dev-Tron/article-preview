@@ -29,15 +29,13 @@ Users should be able to:
 ### Screenshot
 
 <<<<<<< HEAD
-![drawer](/Users/keytronbrown/Downloads/article-preview-component-master/images/Screen Shot 2022-01-05 at 6.53.24 AM.png)
-![teacher](/Users/keytronbrown/Downloads/article-preview-component-master/images/Screenshot 2022-01-05 at 06-57-34 Frontend Mentor Article preview component.png)
+![drawer](images/Screen Shot 2022-01-05 at 6.53.24 AM.png)
+![teacher](images/Screenshot 2022-01-05 at 06-57-34 Frontend Mentor Article preview component.png)
 
 ### Links
 
 - Solution URL: (https://github.com/Dev-Tron/article-preview)
-=======
-- Solution URL: (https://github.com/Dev-Tron/article-preview.git)
->>>>>>> 0654471f3aa130368380f3cdf0b3dc02ec32b489
+
 - Live Site URL: (https://dev-tron.github.io/article-preview/)
 
 ## My process
