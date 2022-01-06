@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screen Shot 2022-01-05 at 6.53.24 AM.png)
-![](images/Screenshot 2022-01-05 at 06-57-34 Frontend Mentor Article preview component.png)
+![drawer](images/Screen Shot 2022-01-05 at 6.53.24 AM.png)
+![teacher](images/Screenshot 2022-01-05 at 06-57-34 Frontend Mentor Article preview component.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Dev-Tron/article-preview.git)
+- Live Site URL: (https://dev-tron.github.io/article-preview/)
 
 ## My process
 
@@ -51,33 +51,6 @@ Users should be able to:
 ### What I learned
 
 In this challenge, I further learned the importance of layouts and their relations to screen sizes. This was a very tough challenge styles wise but doing it really helped solidify my progress.
-
-Some of the useful code snippets that I used include:
-
-```HTML:
-<time id="lighten" datetime="2020-06-28">28 Jun 2020</time>
-
-```CSS:
-.social-media-icons::after {
-    
-    @media #{$brk-wide} {    
-        content: '';
-        background-color: $drk-blu-grey;
-        width: 10px;
-        height: 10px;
-        position: absolute;
-        top: 100%;
-        left: 48%;
-        transform: translate(-50%, -50%) rotate(45deg);
-  }
-}
-
-```JavaScript:
-$('.social-media-icons').hide();
-
-$('button').click(function() {
-    $('.social-media-icons').toggle('active');
-})
 
 ### Continued development
 
