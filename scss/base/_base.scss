@@ -1,0 +1,101 @@
+html {
+    height: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Manrope', sans-serif;
+    background-color: $lght-blu-grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: medium;
+    color: $drk-blu-grey;
+    margin-bottom: 1rem;
+}
+
+#text {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 40px;
+
+    @media #{$brk-wide} {
+        margin-top: 0;
+        padding: 50px;
+    }
+}
+
+#dark-txt {
+    color: $drk-blu-grey;
+    font-size: small;
+}
+
+#row1 {
+    @extend #dark-txt;
+}
+
+p {
+    line-height: 2em;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    gap: 1em;
+}
+
+#share {
+    border-radius: 50%;
+    border: transparent;
+    align-self: center;
+    margin-left: 45%;
+    height: 35px;
+    width: 45%;
+    margin-top: 10px;
+    background-color: $lght-blu-grey;
+    z-index: 1;
+
+    @media #{$brk-wide} {
+        width: 35px;
+    }
+
+}
+
+#lighten {
+    color: hsl(212, 23%, 69%);
+}
+
+#position {
+    margin-left: 40px;
+    margin-top: 15px;
+    color: $grey-blu;
+    letter-spacing: 4px;
+
+    @media #{$brk-wide} {
+        margin-bottom: 20px;
+        margin-top: 0;
+        margin-left: 0;
+    }
+}
+
+.attribution {
+    position: relative;
+
+    @media #{$brk-wide} {
+        position: relative;
+    }
+
+
+}

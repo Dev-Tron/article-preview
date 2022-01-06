@@ -1,0 +1,25 @@
+#container {
+    border-radius: 3%;
+    background-color: white;
+    width: 350px;
+    height: 600px;
+    margin: auto;
+    
+    @media #{$brk-wide} {
+        display: flex;
+        flex-direction: row;
+        width: 800px;
+        height: 320px;
+        align-items: center;
+        justify-content: center;
+        border-bottom-right-radius: 10px;
+        border-top-right-radius: 10px;
+        
+    }
+}
+
+#txt-img {
+    display: grid;
+    grid-template-columns: 65px 130px auto;
+    margin-top: 1em;
+}
