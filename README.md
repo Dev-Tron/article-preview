@@ -28,8 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![drawer](images/Screen Shot 2022-01-05 at 6.53.24 AM.png)
-![teacher](images/Screenshot 2022-01-05 at 06-57-34 Frontend Mentor Article preview component.png)
+/Users/keytronbrown/Downloads/article-preview-component-master/images/Screen Shot 2022-01-05 at 6.53.24 AM.png
+
+/Users/keytronbrown/Downloads/article-preview-component-master/images/Screenshot 2022-01-05 at 06-57-34 Frontend Mentor Article preview component.png
 
 ### Links
 
