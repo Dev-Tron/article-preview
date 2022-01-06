@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![drawer](https://github.com/Dev-Tron/article-preview/raw/main/images/Screenshot%202022-01-05%20at%2006-57-34%20Frontend%20Mentor%20Article%20preview%20component.png)
-
+![](https://github.com/Dev-Tron/article-preview/blob/main/images/Screen%20Shot%202022-01-05%20at%206.53.24%20AM.png?raw=true)
 
 ### Links
 
